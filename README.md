@@ -1,3 +1,4 @@
+//TO DO - Weź się za robotę Mireczku 
 # Text Analyser
 Tool for lexical analysis of text data
 
