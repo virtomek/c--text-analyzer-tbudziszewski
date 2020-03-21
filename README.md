@@ -1,6 +1,8 @@
 # Text Analyser
 Tool for lexical analysis of text data
 
+//fixme: Please correct this MAN(typie)
+
 ## Sample output
 `---text1.tx--- `    name of the analyzed file
 
